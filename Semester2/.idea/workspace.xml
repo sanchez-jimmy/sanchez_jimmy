@@ -27,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -62,10 +63,17 @@
         <option value="$PROJECT_DIR$/Lesson 3/Lesson 3 follow along/Lesson 3 Part 6.html" />
         <option value="$PROJECT_DIR$/weblab 3.html" />
         <option value="$PROJECT_DIR$/Lesson 1/WebLab 1/WebLab3.html" />
-        <option value="$PROJECT_DIR$/Lesson 1/WebLab 1/index(page1).html" />
         <option value="$PROJECT_DIR$/WebLab3.html" />
         <option value="$PROJECT_DIR$/Lesson 3/WebLab 3/abou u.html" />
         <option value="$PROJECT_DIR$/Lesson 3/WebLab 3/WebLab3(page1).html" />
+        <option value="$PROJECT_DIR$/Lesson 4 blah.css" />
+        <option value="$PROJECT_DIR$/Lesson 4 blah.html" />
+        <option value="$PROJECT_DIR$/Lesson 1/WebLab 1/index(page1).html" />
+        <option value="$PROJECT_DIR$/Lesson 4/Lesson 4 follow along/Lesson 4 blah.html" />
+        <option value="$PROJECT_DIR$/WebLab 4.html" />
+        <option value="$PROJECT_DIR$/Lesson 4/Lesson 4 follow along/Lesson 4 follow.html" />
+        <option value="$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4(aboutme).html" />
+        <option value="$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4(index).html" />
       </list>
     </option>
   </component>
@@ -105,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -114,6 +123,9 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
       <pane id="ProjectPane">
         <subPane>
@@ -125,10 +137,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,6 +149,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Pictures" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -574,12 +583,15 @@
       <workItem from="1492793345477" duration="2118000" />
       <workItem from="1493051590092" duration="2966000" />
       <workItem from="1493138495470" duration="2349000" />
-      <workItem from="1493224368527" duration="925000" />
+      <workItem from="1493224368527" duration="3010000" />
+      <workItem from="1493311005654" duration="987000" />
+      <workItem from="1493312009961" duration="1743000" />
+      <workItem from="1493397159939" duration="451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36731000" />
+    <option name="totallyTimeSpent" value="41997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="492" y="0" width="1395" height="1056" extended-state="1" />
@@ -636,18 +648,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebLab_01/MyPage/index.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lesson_01.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/lesson 1 pt 2.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lab_01.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lesson_01.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/lesson 1 pt 2.html" />
-    <entry file="file://$PROJECT_DIR$/../../../../Public/Pictures/Sample Pictures/Koala.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lab_01.html" />
     <entry file="file://$PROJECT_DIR$/WebLab_01/Lesson_01.html" />
     <entry file="file://$PROJECT_DIR$/WebLab_01/lesson 1 pt 2.html" />
     <entry file="file://$PROJECT_DIR$/WebLab_01/Lab_01.html" />
@@ -681,7 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/aboutme.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 2/Lesson 2 follow along/Lesson 2 pt 2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -704,13 +703,6 @@
     <entry file="file://$PROJECT_DIR$/Lesson 3 Part 6.html" />
     <entry file="file://$PROJECT_DIR$/weblab 3.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/WebLab3.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/index(page1).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 3/Lesson 3 follow along/Lesson 3 Part 1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -730,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,30 +729,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/Page2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 3/WebLab 3/abou u.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/Page2.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 3/WebLab 3/abou u.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 3/WebLab 3/WebLab3(page1).html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 4 blah.css" />
+    <entry file="file://$PROJECT_DIR$/Lesson 4 blah.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 4/Lesson 4 follow along/Lesson 4 blah.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/index(page1).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebLab 4.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 4/Lesson 4 follow along/Lesson 4 follow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/aboutme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4(aboutme).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4(index).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding />
         </state>
       </provider>
