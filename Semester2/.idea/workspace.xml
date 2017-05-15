@@ -17,6 +17,13 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Semester2" />
@@ -40,17 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WebLab_01/Lab_01.html" />
-        <option value="$PROJECT_DIR$/WebLab_01/Lesson_01.html" />
-        <option value="$PROJECT_DIR$/WebLab_01/lesson 1 pt 2.html" />
-        <option value="$PROJECT_DIR$/WebLab_01/MyPage/aboutme.html" />
-        <option value="$PROJECT_DIR$/WebLab_01/MyPage/index.html" />
-        <option value="$PROJECT_DIR$/WebLab_01/Lesson 1 follow along/Lesson 1 Page 2.html" />
-        <option value="$PROJECT_DIR$/WebLab_01/Lesson 1 follow along/Lesson 1 Page 1.html" />
-        <option value="$PROJECT_DIR$/WebLab_01/My Web Lab/index.html" />
-        <option value="$PROJECT_DIR$/Lesson 2.html" />
-        <option value="$PROJECT_DIR$/Lesson 1 pt 2.html" />
-        <option value="$PROJECT_DIR$/WebLab2.html" />
         <option value="$PROJECT_DIR$/Lesson 2/WebLab 2/WebLab2.html" />
         <option value="$PROJECT_DIR$/Lesson 1/WebLab 1/aboutme.html" />
         <option value="$PROJECT_DIR$/Lesson 2/Lesson 2 follow along/Lesson 2 pt 2.html" />
@@ -76,6 +72,32 @@
         <option value="$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4(index).html" />
         <option value="$PROJECT_DIR$/Lesson 5.html" />
         <option value="$PROJECT_DIR$/web lab 5.html" />
+        <option value="$PROJECT_DIR$/lesson 6 fa.html" />
+        <option value="$PROJECT_DIR$/Lesson 6 follow part 2.html" />
+        <option value="$PROJECT_DIR$/Part 3.html" />
+        <option value="$PROJECT_DIR$/Lesson 6 follow part 4.html" />
+        <option value="$PROJECT_DIR$/part 3.html" />
+        <option value="$PROJECT_DIR$/part 3 1.html" />
+        <option value="$PROJECT_DIR$/css 6.html" />
+        <option value="$PROJECT_DIR$/Lesson 6 part 3 (index2).html" />
+        <option value="$PROJECT_DIR$/Lesson 6 part 3 (index).html" />
+        <option value="$PROJECT_DIR$/css 7.css" />
+        <option value="$PROJECT_DIR$/blah.css" />
+        <option value="$PROJECT_DIR$/blah 2.html" />
+        <option value="$PROJECT_DIR$/blah 1.html" />
+        <option value="$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/blah.css" />
+        <option value="$PROJECT_DIR$/stylesheet.css" />
+        <option value="$PROJECT_DIR$/WebLab6(page1).html" />
+        <option value="$PROJECT_DIR$/WebLab6(page2).html" />
+        <option value="$PROJECT_DIR$/7 fololow.html" />
+        <option value="$PROJECT_DIR$/p111.html" />
+        <option value="$PROJECT_DIR$/p2222.html" />
+        <option value="$PROJECT_DIR$/Lesson 7/Lesson 7 follow along/Lesson 7 follow part 3.html" />
+        <option value="$PROJECT_DIR$/Lesson 7/Lesson 7 follow along/WebLab 7.html" />
+        <option value="$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/Lesson 6 part 3 (index).html" />
+        <option value="$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/Lesson 6 part 3 (index2).html" />
+        <option value="$PROJECT_DIR$/Lesson 6/WebLab 6/WebLab6(page1).html" />
+        <option value="$PROJECT_DIR$/Lesson 6/WebLab 6/stylesheet.css" />
       </list>
     </option>
   </component>
@@ -86,7 +108,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="492" />
+    <option name="x" value="96" />
     <option name="width" value="1395" />
     <option name="height" value="1056" />
   </component>
@@ -115,7 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -126,19 +149,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,10 +159,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Pictures" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebLab6(page1).html" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/WebLab6(page1).html" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -590,15 +602,23 @@
       <workItem from="1493312009961" duration="1743000" />
       <workItem from="1493397159939" duration="2767000" />
       <workItem from="1493656286510" duration="3187000" />
-      <workItem from="1493742513168" duration="749000" />
+      <workItem from="1493742513168" duration="3221000" />
+      <workItem from="1494002365233" duration="2605000" />
+      <workItem from="1494261437081" duration="2752000" />
+      <workItem from="1494347798993" duration="864000" />
+      <workItem from="1494348697185" duration="312000" />
+      <workItem from="1494349023253" duration="1744000" />
+      <workItem from="1494520701172" duration="2363000" />
+      <workItem from="1494606716333" duration="3104000" />
+      <workItem from="1494866135715" duration="2607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48249000" />
+    <option name="totallyTimeSpent" value="67072000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="0" width="1395" height="1056" extended-state="1" />
+    <frame x="96" y="0" width="1395" height="1056" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -611,10 +631,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22552574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22546816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494382" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -626,6 +646,32 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22552574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -652,50 +698,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lesson_01.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lab_01.html" />
-    <entry file="file://$PROJECT_DIR$/../../../../Public/Pictures/Sample Pictures/Koala.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lesson_01.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/MyPage/index.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/lesson 1 pt 2.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/MyPage/aboutme.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lab_01.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/My weblab/aboutme.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/My weblab/index.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lesson 1 follow along/Lesson 1 Page 2.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/Lesson 1 follow along/Lesson 1 Page 1.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/My Web Lab/index.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab_01/My Web Lab/aboutme.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 2.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 2/Lesson 2.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 1 pt 2.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 2/Lesson 2 pt 2.html" />
-    <entry file="file://$PROJECT_DIR$/WebLab2.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 2/Lesson 2 follow along/Lesson 2 pt 2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="138" selection-start-line="32" selection-start-column="138" selection-end-line="32" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 3 follow along.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 3 Part 2.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 3 Part 3.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 3 Part 4.html" />
-    <entry file="file://$PROJECT_DIR$/Semester2.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 3 Part 5.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 3 Part 6.html" />
-    <entry file="file://$PROJECT_DIR$/weblab 3.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/WebLab3.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 3/Lesson 3 follow along/Lesson 3 Part 1.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -738,22 +740,8 @@
     <entry file="file://$PROJECT_DIR$/Lesson 4 blah.css" />
     <entry file="file://$PROJECT_DIR$/Lesson 4 blah.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 4/Lesson 4 follow along/Lesson 4 blah.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/index(page1).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebLab 4.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4.html" />
-    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/aboutme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4(aboutme).html" />
     <entry file="file://$PROJECT_DIR$/Lesson 4/WebLab 4/WebLab 4(index).html">
       <provider selected="true" editor-type-id="text-editor">
@@ -777,18 +765,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web lab 5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web lab 5.html" />
     <entry file="file://$PROJECT_DIR$/Lesson 4/Lesson 4 follow along/Lesson 4 follow.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson 6 fa.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 6 follow part 2.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 6 follow part 4.html" />
+    <entry file="file://$PROJECT_DIR$/part 3.html" />
+    <entry file="file://$PROJECT_DIR$/part 3 1.html" />
+    <entry file="file://$PROJECT_DIR$/css 6.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 6 part 3 (index2).html" />
+    <entry file="file://$PROJECT_DIR$/css 7.css" />
+    <entry file="file://$PROJECT_DIR$/Lesson 6 part 3 (index).html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/index(page1).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/WebLab 1/aboutme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blah.css" />
+    <entry file="file://$PROJECT_DIR$/WebLab6(page2).html" />
+    <entry file="file://$PROJECT_DIR$/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/WebLab6(page1).html" />
+    <entry file="file://$PROJECT_DIR$/7 fololow.html" />
+    <entry file="file://$PROJECT_DIR$/p111.html" />
+    <entry file="file://$PROJECT_DIR$/p2222.html" />
+    <entry file="file://$PROJECT_DIR$/Lesson 7/Lesson 7 follow along/WebLab 7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 7/Lesson 7 follow along/Lesson 7 follow part 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 7/Lesson 7 follow along/Lesson 7 follow part 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 7/Lesson 7 follow along/Lesson 7 follow part 3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/css (indexes).css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/Lesson 6 part 3 (index).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/blah.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/Lesson 6 part 3 (index2).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/WebLab 6/WebLab6(page2).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/Lesson 6 follow along/Lesson 6 follow part 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/WebLab 6/WebLab6(page1).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 6/WebLab 6/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
