@@ -1,0 +1,14 @@
+h1{text-align: center;
+background-color: blue;
+color: white;
+border-style: dashed;
+border-color: white;
+border-width: 2px;
+padding: 40px;}
+li{color: black;}
+header{background-color: red;}
+footer{background-color: red;}
+article{background-color: red;}
+#me{border-style: solid;
+border-color: darkblue;
+}
