@@ -1,0 +1,26 @@
+h3{font-family: Aharoni;
+    color:blue;}
+p{font-family: Comic Sans MS;
+    color:red;}
+a{font-family: Bell MT;
+    color:green;
+    font-variant-caps: all-small-caps;}
+h2{color:purple;}
+* {
+    color:black;
+}
+:not(.J){
+    color:black;
+}
+tr:nth-child(odd) > td:nth-child(even){
+    background-color: blue;
+}
+tr:nth-child(odd) > td:nth-child(odd){
+    background-color: red;
+}
+tr:nth-child(even) > td:nth-child(odd){
+    background-color: blue;
+}
+tr:nth-child(even) > td:nth-child(even){
+    background-color: red;
+}
